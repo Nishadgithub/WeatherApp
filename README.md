@@ -1,6 +1,6 @@
 # Google Cloud DevOps Project: Deploying a Live Weather App on Cloud Run
 
-Within this repository, you'll discover the essential source code and deployment files needed to orchestrate a live weather app on Cloud Run using Docker. 🌐🚀
+Within this repository, you'll discover the essential source code and deployment files needed to orchestrate a live weather app on Cloud Run using Docker.  🌐🚀
 
 ## Overview
 
